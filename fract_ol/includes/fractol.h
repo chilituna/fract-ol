@@ -27,34 +27,6 @@
 # define HEIGHT 800
 # define MAX_ITER 100
 
-// typedef struct mlx
-// {
-// 	void*		window;
-// 	void*		context;
-// 	int32_t		width;
-// 	int32_t		height;
-// 	double		delta_time;
-// }	mlx_t;
-
-// typedef struct mlx_image
-// {
-// 	const uint32_t	width;
-// 	const uint32_t	height;
-// 	uint8_t*		pixels;
-// 	mlx_instance_t*	instances;
-// 	int32_t			count;
-// 	bool			enabled;
-// 	void*			context;
-// }	mlx_image_t;
-
-// typedef struct mlx_instance
-// {
-// 	int32_t	x;
-// 	int32_t	y;
-// 	int32_t	z;
-// 	bool	enabled;
-// }	mlx_instance_t;
-
 typedef struct s_complex
 {
 	double	real;
