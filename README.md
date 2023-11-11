@@ -1,4 +1,4 @@
-# fract-ol
+# fract_ol
 
 fract’ol 
 Computer Graphics Fractals
