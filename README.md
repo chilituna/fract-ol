@@ -20,4 +20,4 @@ To navigate:
 - use arrow keys to move the fractal
 - close with ESC or click the x on window.
 
-Clicking on the fractal will give you the cordniates and use them as input for Julia.
+Clicking on the fractal will give you the coordniates and use them as input for Julia.
