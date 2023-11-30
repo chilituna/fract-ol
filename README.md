@@ -5,6 +5,13 @@ Computer Graphics Fractals
 
 Summary: This project is about creating graphically beautiful fractals.
 
+My first computer graphics project! 
+Getting familiar with the school graphical library (MLX42), I learned about 
+window and image management, optimization in computer graphics and got to practise event handling.
+I also discovered the concept of fractals and complex numbers.
+
+Score 125/100
+
 To use, first download MLX42 Library:
 --> make mlx
 --> make
