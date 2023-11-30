@@ -28,3 +28,9 @@ To navigate:
 - close with ESC or click the x on window.
 
 Clicking on the fractal will give you the coordniates and use them as input for Julia.
+
+Useful resources:
+- MLX42 library: https://github.com/codam-coding-college/MLX42#download-and-build---mlx42
+- great explanation about Mandelbrot: https://www.youtube.com/watch?v=6IWXkV82oyY&ab_channel=TheArtofCode
+- to get inspiration: https://medium.com/@leogaudin/fract-ol-creating-graphically-beautiful-fractals-6664b6b045b5 and https://www.youtube.com/watch?v=ANLW1zYbLcs&ab_channel=Oceano
+- to compare julia set: https://mandelbrotandco.com/en.hub169.html?set=Julia
