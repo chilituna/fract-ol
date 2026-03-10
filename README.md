@@ -1,4 +1,4 @@
-# Fract-ol
+![Fract-ol Banner](images/Banner.png)
 
 An interactive fractal visualization engine that renders complex mathematical sets in real-time.
 
@@ -10,14 +10,15 @@ This project challenged me to optimize rendering algorithms, implement efficient
 
 **Score: 125/100** *(bonus features implemented)*
 
-<!--## Demo / Screenshots
+## Demo / Screenshots
 
-```
-[Add Mandelbrot set rendering screenshot]
-[Add Julia set with different parameters screenshot]  
-[Add Burning Ship fractal screenshot]
-[Add zoomed-in detail screenshot showing recursive patterns]
-```-->
+| Mandelbrot Zoom | Mandelbrot Pan |
+|---|---|
+| ![Mandelbrot Zoom Demo](images/mandel_zoom.gif) | ![Mandelbrot Pan Demo](images/mandel_pan.gif) |
+
+| Julia | Burning Ship |
+|---|---|
+| ![Julia Demo](images/julia.gif) | ![Burning Ship Demo](images/burning.gif) |
 
 ## Tech Stack
 
