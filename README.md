@@ -8,7 +8,8 @@ Fract-ol is a computer graphics project that renders three classic fractals: the
 
 This project challenged me to optimize rendering algorithms, implement efficient event handling, and work with low-level graphics programming - all while maintaining clean, modular code architecture.
 
-**Score: 125/100** *(bonus features implemented)*
+**Score: 125/100** 
+*This project was completed as part of the 42 School curriculum, achieving full marks with bonus features.*
 
 ## Demo / Screenshots
 
@@ -172,4 +173,6 @@ This project was my introduction to computer graphics programming and reinforced
 
 ---
 
-*This project was completed as part of the 42 School curriculum, achieving full marks with bonus features.*
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
