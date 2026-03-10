@@ -121,10 +121,9 @@ Run the program with one of the following commands:
 | Action | Control |
 |--------|---------|
 | Zoom to mouse position | Scroll wheel |
-| Zoom to center (in/out) | Enter / Backspace |
 | Move fractal | Arrow keys |
-| Cycle color schemes | Space (or assigned key) |
-| Get Julia coordinates | Click on fractal |
+| Cycle color schemes | Space |
+| Get coordinates (to terminal) | Click on fractal |
 | Exit program | ESC or close window |
 
 ## Project Structure
