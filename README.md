@@ -122,7 +122,7 @@ Run the program with one of the following commands:
 | Zoom to mouse position | Scroll wheel |
 | Move fractal | Arrow keys |
 | Cycle color schemes | Space |
-| Get Julia coordinates | Click on fractal |
+| Get coordinates (to terminal) | Click on fractal |
 | Exit program | ESC or close window |
 
 ## Project Structure
