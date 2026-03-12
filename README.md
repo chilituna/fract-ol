@@ -66,7 +66,6 @@ This project challenged me to optimize rendering algorithms, implement efficient
 - ⌨️ Keyboard controls for precise navigation
 - 🎨 Multiple dynamic color schemes
 - 🖱️ Interactive parameter adjustment (Julia coordinates via mouse click)
-- 🪟 Clean 800x800 rendering window
 - 🎯 Input validation and error handling
 - 🚀 Real-time rendering with smooth interaction
 
